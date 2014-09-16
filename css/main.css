@@ -1,0 +1,10 @@
+.btn,
+.btn:link,
+.btn:visited{
+    display: inline-block;
+    padding: 0.5em 0.75em;
+    border-radius: 6px;
+    background-color: rgba(166,78,224,1.00);
+    color: #fff;
+    text-decoration: none;
+}
